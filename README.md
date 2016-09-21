@@ -1,3 +1,5 @@
+# This fork is currently only for a simple auto update for Swift 2.3
+
 # Drawer Controller
 [![Version Status](http://img.shields.io/cocoapods/v/DrawerController.png)](http://cocoadocs.org/docsets/DrawerController/1.0.3/) [![license MIT](http://img.shields.io/badge/license-MIT-orange.png)](http://opensource.org/licenses/MIT) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
@@ -9,20 +11,10 @@ This is currently a work in progress and has not been thoroughly tested. Use at 
 
 ## Installation
 
-
-#### [CocoaPods](http://cocoapods.org)
-
-````ruby
-platform :ios, '8.0'
-use_frameworks!
-
-pod 'DrawerController', '~> 1.0'
-````
-
 #### [Carthage](https://github.com/Carthage/Carthage)
 
 ````bash
-github "sascha/DrawerController"
+github "fourstar04/DrawerController"
 ````
 
 ---
